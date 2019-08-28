@@ -1,0 +1,17 @@
+{
+    "name": "Si7021",
+    "version": "0.0.0",
+    "description": "i2c Humidity And Temperature Sensor",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
